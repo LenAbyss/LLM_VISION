@@ -1,0 +1,16 @@
+Django==5.0.4
+requests==2.32.2
+numpy==1.26.4
+
+# LangChain + Qdrant
+langchain==0.3.25
+langchain-core==0.3.59
+langchain-openai==0.3.16
+qdrant-client==1.9.1
+tiktoken==0.7.0
+sentence-transformers==2.2.2
+langchain-community==0.3.23
+openai==1.78.1
+
+# torch
+torch==2.7.1
